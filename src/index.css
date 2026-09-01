@@ -7,7 +7,7 @@ body {
     width: 100dvw;
     overflow: hidden;
     height: 100dvh;
-    background-image: url("/images/wallpaper.png");
+    background-image: url("/images/blueboat.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -355,6 +355,22 @@ body {
 
         h2 {
             @apply font-bold text-sm text-center w-full;
+        }
+
+        .content {
+            @apply p-6 space-y-4 max-h-[70vh] overflow-y-auto;
+
+            img {
+                @apply w-full rounded-lg object-cover object-center;
+            }
+
+            h3 {
+                @apply text-lg font-semibold text-gray-800;
+            }
+
+            p {
+                @apply text-sm text-gray-600 leading-relaxed;
+            }
         }
     }
 
