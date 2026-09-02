@@ -2,8 +2,9 @@ import Terminal from "#windows/Terminal.jsx"
 import Safari from "#windows/Safari.jsx"
 import Resume from "#windows/Resume.jsx"
 import Finder from "#windows/Finder.jsx"
+import Gallery from "#windows/Gallery.jsx"
 import Text from "#windows/Text.jsx"
 import Image from "#windows/Image.jsx"
 import Contact from "#windows/Contact.jsx"
 
-export { Terminal, Safari, Resume, Finder, Text, Image, Contact };
+export { Terminal, Safari, Resume, Finder, Gallery, Text, Image, Contact };

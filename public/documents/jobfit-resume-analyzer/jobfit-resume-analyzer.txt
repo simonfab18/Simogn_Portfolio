@@ -1,0 +1,5 @@
+JobFit Resume Analyzer helps applicants compare a resume against a target role and understand where the match is strong or weak.
+
+The system can surface missing keywords, summarize alignment with job requirements, and turn resume feedback into practical next steps.
+
+Edit this file later with the final project details.

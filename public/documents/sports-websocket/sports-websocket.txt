@@ -1,0 +1,5 @@
+Sports WebSocket is a real-time system for streaming sports updates through persistent socket connections.
+
+The system is designed for live scores, event changes, and fast client updates without constant page refreshes.
+
+Edit this file later with the final project details.

@@ -3,7 +3,7 @@ import gsap from "gsap";
 import {useGSAP} from "@gsap/react";
 
 const FONT_WEIGHTS = {
-    subtitle: { min: 100, max: 400, default: 100},
+    subtitle: { min: 400, max: 600, default: 400},
     title: { min: 400, max: 900, default: 400},
 };
 
@@ -74,8 +74,10 @@ const Welcome = () => {
 
     return(
         <section id="welcome">
+            <div className="dynamic-island" aria-hidden="true" />
+
             <p ref={subTitleRef} >
-                {renderText("Hey, I'm Simogn! Welcome to my", "text-3xl font-georama", 100,)} </p>
+                {renderText("Hey, I'm Simogn! Welcome to my", "text-5xl font-georama", 300,)} </p>
             <h1 ref={titleRef} className="mt-7">
                 {renderText("portfolio", "text-9xl italic font-georama")}
             </h1>

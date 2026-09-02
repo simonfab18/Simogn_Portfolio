@@ -1,0 +1,5 @@
+AI Company Knowledge & Operations Assistant gives teams a single assistant for internal knowledge, SOPs, and operational workflows.
+
+The system can help answer company-specific questions, retrieve process details, and support repeatable operations from one organized interface.
+
+Edit this file later with the final project details.

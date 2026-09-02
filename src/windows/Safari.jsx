@@ -21,7 +21,7 @@ const Safari = () => {
                 <Search className="icon" />
                 <input
                     type= "text"
-                    placeholder="Search or enter website name"
+                    placeholder="https://www.linkedin.com/in/simogn-fabregas-b66611360/"
                     className="flex-1"
                 />
 
@@ -35,7 +35,7 @@ const Safari = () => {
         </div>
 
             <div className="blog">
-                <h2>My Developer Blog</h2>
+                <h2>Linkedin Certificates</h2>
 
                 <div className="space-y-8">
                     {blogPosts.map(({ id, image, title, date, link}) => (

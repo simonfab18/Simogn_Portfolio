@@ -1,0 +1,5 @@
+AI Customer Support helps teams respond faster by combining customer context, support knowledge, and AI-assisted replies.
+
+The system can triage requests, draft useful responses, and keep common support workflows consistent across conversations.
+
+Edit this file later with the final project details.
